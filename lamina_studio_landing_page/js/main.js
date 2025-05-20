@@ -1,1 +1,0 @@
-console.log('Lamina Studio site loaded');
